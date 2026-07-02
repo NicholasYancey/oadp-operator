@@ -201,7 +201,7 @@ require (
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.6.0 // indirect
 )
-
+// this pr is for the e2e-test-cli-aws DO NOT MERGE!!!
 replace github.com/vmware-tanzu/velero => github.com/openshift/velero v0.10.2-0.20260219202759-5cf28471570d
 
 replace github.com/kopia/kopia => github.com/migtools/kopia v0.0.0-20260211121325-b68c22afd36d
